@@ -60,8 +60,8 @@ Follow the steps below to run the project on your local machine:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/nim-validator.git
-    cd nim-validator
+    git clone https://github.com/ElloRabyndra/Nim_Validation.git
+    cd Nim_Validation
     ```
 
 2. **Open the folder in your IDE or code editor**
