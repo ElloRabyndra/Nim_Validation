@@ -32,25 +32,25 @@ The NIM (Nomor Induk Mahasiswa) follows a strict format based on various compone
 > Below are the official code references used for validation:
 
 #### 📄 NIM Grammar Table
-![NIM Grammar](images/nim_grammar.png)
+![NIM Grammar](screenshot/nim_grammar.png)
 
 #### 🏫 Faculty Code
-![Faculty Code](images/faculty_code.png)
+![Faculty Code](screenshot/faculty_code.png)
 
 #### 🧑‍🎓 Program Study Code
-![Program Study Code](images/program_study_code.png)
+![Program Study Code](screenshot/program_study_code.png)
 
 #### 🎓 Education Program Code
-![Education Program Code](images/education_program_code.png)
+![Education Program Code](screenshot/education_program_code.png)
 
 #### 🎫 Admission Path Code
-![Admission Path Code](images/admission_path_code.png)
+![Admission Path Code](screenshot/admission_path_code.png)
 
 #### 📅 Entry Month Code
-![Entry Month Code](images/entry_month_code.png)
+![Entry Month Code](screenshot/entry_month_code.png)
 
 #### 🔢 Student Serial Number Format
-![Serial Number Code](images/serial_number_code.png)
+![Serial Number Code](screenshot/serial_number_code.png)
 
 ---
 
@@ -79,6 +79,6 @@ Follow the steps below to run the project on your local machine:
 ---
 
 ## 📸 Screenshot
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot/screenshot.png)
 
 ---
